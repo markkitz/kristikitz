@@ -1,3 +1,7 @@
 import React from "react"
+import PageOne from "./PageOne"
 
-export default () => <div>Hello world!</div>
+
+export default () => (
+    <PageOne />
+)
